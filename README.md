@@ -1,13 +1,16 @@
 # ml4hep
 
+info: https://agenda.infn.it/event/28573/
 
-credits: 
-[1] A high bias, low-variance introduction to Machine Learning [hblvi2ML]: https://arxiv.org/abs/1803.08823
 
-other references:
+## credits: 
 
-[2] "DeepLearning", Ian Goodfellow, Yoshua Bengio and Aaron Courville, https://www.deeplearningbook.org
+[1] `A high bias, low-variance introduction to Machine Learning` [hblvi2ML]: https://arxiv.org/abs/1803.08823
 
-[3] "Information Theory, Inference, and Learning Algorithms", David J.C. MacKay, https://www.inference.org.uk/itprnn/book.pdf
+## other references:
 
-[4] AI4NP winter school, C. Fanelli
+[2] `Deep Learning`, Ian Goodfellow, Yoshua Bengio and Aaron Courville, https://www.deeplearningbook.org
+
+[3] `Information Theory, Inference, and Learning Algorithms`, David J.C. MacKay, https://www.inference.org.uk/itprnn/book.pdf
+
+[4] AI4NP winter school, `Detector design optimization` C. Fanelli
