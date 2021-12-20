@@ -13,4 +13,4 @@ info: https://agenda.infn.it/event/28573/
 
 [3] `Information Theory, Inference, and Learning Algorithms`, David J.C. MacKay, https://www.inference.org.uk/itprnn/book.pdf
 
-[4] AI4NP winter school, `Detector design optimization` C. Fanelli
+[4] AI4NP winter school, `Detector design optimization` C. Fanelli, https://github.com/cfteach/AI4NP_detector_opt 
