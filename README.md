@@ -21,6 +21,7 @@ Day 2:
 ## Credits: 
 
 The course utilizes the following as main reference: 
+
 [1] `A high bias, low-variance introduction to Machine Learning` [hblvi2ML]: https://arxiv.org/abs/1803.08823
 
 ## Other references:
