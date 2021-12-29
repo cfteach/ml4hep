@@ -14,7 +14,7 @@ Day 1
 - `Clustering (K-Means, Density-based clustering methods: DBSCAN, HDBSCAN)` (hands-on [Clustering](https://github.com/cfteach/ml4hep/blob/main/clustering/clustering.ipynb)) 
 
 Day 2:
-- `Introduction to Neural Networks and hyperparameter optimization` (hands-on: [how to build your first feed-forward NN with PyTorch](https://github.com/cfteach/ml4hep/blob/main/dnn/DNN_SUSY_gpu.ipynb))
+- `Introduction to Neural Networks and hyperparameter optimization` (hands-on [how to build your first feed-forward NN with PyTorch](https://github.com/cfteach/ml4hep/blob/main/dnn/DNN_SUSY_gpu.ipynb))
 - `Detector Design Optimization: single and multi-objective optimization` (hands-on [Bayesian Optimization](https://github.com/cfteach/ml4hep/blob/main/design_optimization/driver_bo.ipynb), [Multi-objective Optimization with meta-heuristic Ex. 2](https://github.com/cfteach/ml4hep/blob/main/design_optimization/driver_moo_sol2.ipynb), [MOO Ex. 3 (generalization to 3 objectives)](https://github.com/cfteach/ml4hep/blob/main/design_optimization/driver_moo_3obj_sol3.ipynb)) 
 
 
@@ -42,4 +42,5 @@ Documentation on `scikit-learn` can be found [here](https://scikit-learn.org/sta
 
 Documentation on `PyTorch` can be found [here](https://pytorch.org).
 
+We make use of [jupyter notebook](https://jupyter.org) and [colab](https://colab.research.google.com/). 
 
