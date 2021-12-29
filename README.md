@@ -30,7 +30,7 @@ Other references:
 
 [3] `Information Theory, Inference, and Learning Algorithms`, David J.C. MacKay, https://www.inference.org.uk/itprnn/book.pdf
 
-[4]  AI4NP winter school, `Detector design optimization` Cristiano Fanelli, https://github.com/cfteach/AI4NP_detector_opt 
+[4]  AI4NP winter school, `Detector design optimization`, Cristiano Fanelli, https://github.com/cfteach/AI4NP_detector_opt 
 
 
 
