@@ -18,21 +18,22 @@ Day 2:
 - `Detector Design Optimization: single and multi-objective optimization` (hands-on [Bayesian Optimization](https://github.com/cfteach/ml4hep/blob/main/design_optimization/driver_bo.ipynb), [Multi-objective Optimization with meta-heuristic Ex. 2](https://github.com/cfteach/ml4hep/blob/main/design_optimization/driver_moo_sol2.ipynb), [MOO Ex. 3 (generalization to 3 objectives)](https://github.com/cfteach/ml4hep/blob/main/design_optimization/driver_moo_3obj_sol3.ipynb)) 
 
 
-## credits: 
+## Credits: 
 
+The course utilizes the following as main reference: 
 [1] `A high bias, low-variance introduction to Machine Learning` [hblvi2ML]: https://arxiv.org/abs/1803.08823
 
-## other references:
+## Other references:
 
 [2] `Deep Learning`, Ian Goodfellow, Yoshua Bengio and Aaron Courville, https://www.deeplearningbook.org
 
 [3] `Information Theory, Inference, and Learning Algorithms`, David J.C. MacKay, https://www.inference.org.uk/itprnn/book.pdf
 
-[4] AI4NP winter school, `Detector design optimization` C. Fanelli, https://github.com/cfteach/AI4NP_detector_opt 
+[4]  AI4NP winter school, `Detector design optimization` C. Fanelli, https://github.com/cfteach/AI4NP_detector_opt 
 
 
 
-## requirements
+## Requirements
 
 python3; all other packages are installed from scratch during the course.
 
